@@ -1,3 +1,5 @@
 .DS_Store
 # local preview settings for the Claude app
 .claude/
+.vercel
+.env*
